@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+display_1:
+  disp_id: 1
+  view: 
+  status: 稼働
+  power: false
+
+display_2:
+  disp_id: 2
+  view: 
+  status: 休止
+  power: false
+
+display_3:
+  disp_id: 3
+  view: 
+  status: 稼働
+  power: false
+
+display_4:
+  disp_id: 4
+  view: 
+  status: 稼働
+  power: false

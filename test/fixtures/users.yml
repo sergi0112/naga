@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+user1:
+  name: admin
+  pass: nimda
+  role: admin
+
+user2:
+  name: china
+  pass: china
+  role: user
+
+user3:
+  name: laos
+  pass: laos
+  role: user
+
+user4:
+  name: seoul
+  pass: seoul
+  role: user
