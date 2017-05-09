@@ -6,8 +6,10 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+ruby 2.3.3p222 (2016-11-21 revision 56859) [x86_64-darwin16]
 
 * System dependencies
+Rails 5.0.2
 
 * Configuration
 
